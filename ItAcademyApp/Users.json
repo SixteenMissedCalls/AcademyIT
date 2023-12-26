@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Login": "Admin",
+    "Password": "123",
+    "FirstName": "123",
+    "Surname": "123",
+    "Group": "",
+    "Teacher": ""
+  },
+  {
+    "Id": 2,
+    "Login": "nasibullin@gmail.com",
+    "Password": "123456789",
+    "FirstName": "Данил",
+    "Surname": "Насибуллин",
+    "Group": "Программирование C# утренняя",
+    "Teacher": "Иванов А.А."
+  },
+  {
+    "Id": 3,
+    "Login": "123",
+    "Password": "123",
+    "FirstName": "Данил",
+    "Surname": "Насибуллин",
+    "Group": "",
+    "Teacher": ""
+  },
+  {
+    "Id": 4,
+    "Login": "1234",
+    "Password": "1234",
+    "FirstName": "паппв",
+    "Surname": "апвп",
+    "Group": "",
+    "Teacher": ""
+  }
+]
